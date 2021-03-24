@@ -225,7 +225,7 @@ body {
       padding: 0px;
       padding-right: 10px; } }
   .profile-box .left-side {
-    background-color: #990f92ce;
+    background-color: #1f4943;
     color: #FFF;
     padding: 40px 20px; }
     .profile-box .left-side .profile-info {
@@ -365,7 +365,7 @@ body {
   .rit-cover .education ul li {
     box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
     border-radius: 2px;
-    background-color: #d9b3dba9;
+    /* background-color: #2e6960; */
     padding: 10px 15px;
     font-size: .9rem; }
     .rit-cover .education ul li span {
@@ -380,6 +380,6 @@ body {
     .rit-cover .profess-cover .prog-row div {
       padding: 0px; }
   .rit-cover .profess-cover .progress-bar {
-    background-color:  #880aafb0 }
+    background-color:  #1f4943 }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.css.map *
