@@ -278,6 +278,9 @@ body {
         font-size: .8rem; }
       .profile-box .left-side .refer-cov span {
         font-size: .9rem; }
+    .profile-box .left-side .hoby{
+        margin-top: 20px;
+        }
     .profile-box .left-side .hoby li {
       float: left;
       font-size: .9rem;
@@ -302,7 +305,7 @@ body {
     padding-left: 30px; } }
 .rit-cover .hotkey {
   text-align: right;
-  padding: 12px 20px; }
+  padding: 0px 20px; }
   .rit-cover .hotkey h1 {
     width: 100%;
     text-align: right;
@@ -313,7 +316,7 @@ body {
     margin-top: -30px;
     font-weight: 600; }
 .rit-cover .rit-titl {
-  padding: 10px;
+  padding: 8px;
   border-bottom: 2px solid #CCC;
   font-size: 1.1rem; }
   .rit-cover .rit-titl i {
@@ -361,7 +364,7 @@ body {
       .rit-cover .work-exp ul li i {
         margin-right: 5px; }
 .rit-cover .education {
-  padding: 20px 0px; }
+  padding: 2px 0px; }
   .rit-cover .education ul li {
     box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
     border-radius: 2px;
@@ -371,7 +374,7 @@ body {
     .rit-cover .education ul li span {
       font-size: .8rem; }
 .rit-cover .profess-cover {
-  padding: 20px 0px; }
+  padding: 0px 0px; }
   .rit-cover .profess-cover .prog-row {
     width: 100%;
     text-align: left;
